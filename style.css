@@ -1,0 +1,15 @@
+body{
+    background: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.login-box{
+    background: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow:0 0 10px #aaa ;
+}
