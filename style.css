@@ -9,7 +9,8 @@ body{
 }
 .login-box{
     background: aliceblue;
-    padding: 30px;
+    padding: 300px;
     border-radius: 10px;
+    text-align:  center;
     box-shadow:0 0 10px #aaa ;
 }
